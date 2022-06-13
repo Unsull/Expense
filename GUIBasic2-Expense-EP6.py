@@ -6,7 +6,7 @@ from datetime import datetime
 
 
 GUI = Tk()
-GUI.title('โปรแกรมบันทึกค่าใช้จ่าย')
+GUI.title('โปรแกรมบันทึกค่าใช้จ่าย v.1.0')
 GUI.geometry('600x700+500+50')
 
 # B1 = Button(GUI,text='Hello')
